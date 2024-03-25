@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Uttkarsh123
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on Web development
 - 📫 Contact me on uttkarshdhiman02@gmail.com
 
